@@ -13,6 +13,11 @@ No-frills: This project is designed for simplicity, utilizing HTML, CSS, and Jav
 "Basic Trivia Game" on GitHub, built using HTML, CSS, and JavaScript, is perfect for those who prefer a basic, no-nonsense approach to trivia quizzes. Give it a try and have some uncomplicated fun while testing your knowledge!
 
 
+![image](https://github.com/mahad002/Basic-Trivia-Game-Mahad-Sheikh/assets/118904257/f53d2635-f418-4896-bbad-848f6fa69e60)
+![image](https://github.com/mahad002/Basic-Trivia-Game-Mahad-Sheikh/assets/118904257/500afb31-bfe7-4209-a386-78f6fb3df4de)
+
+
+
 
 
 
